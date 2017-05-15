@@ -19,5 +19,5 @@ Save token in a safe place.
 In your terminal: 'curl -H "Authorization: token <YOUR LONG TOKEN HERE>" https://api.github.com/orgs/<YOUR BOOTCAMP HERE>/teams' 
 Scroll through the possible teams and get to get your unique team id number. 
 
-Open addtoGH.js in your text editor (Submlime). 
+Open addtoGH.js in your text editor (Sublime). 
 Insert token, team ID, and your own username into the specific <>.
