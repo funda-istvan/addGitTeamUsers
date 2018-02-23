@@ -24,7 +24,7 @@ Open terminal and run the following:
 ```sh
 $ git clone <copy and paste from github>
 $ cd addGitTeamUsers
-$ curl -H "Authorization: token <YOUR LONG TOKEN HERE>" https://api.github.com/orgs/<YOUR BOOTCAMP HERE>/teams
+$ curl -H "Authorization: token <YOUR LONG TOKEN HERE>" https://api.github.com/orgs/<YOUR BOOTCAMP HERE>/teams?page=2&per_page=100
 ```
 Scroll through the possible teams and get to get your unique team id number. 
 
